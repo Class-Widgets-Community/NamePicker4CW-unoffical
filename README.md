@@ -1,3 +1,7 @@
+# 不用提建议了，停更了喵
+## 为什么
+开发者个人原因，不建议多问
+
 <div align="center">
 <img src="icon.png" alt="插件图标" width="18%">
 <h1>NamePicker x Class Widgets</h1>

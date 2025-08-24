@@ -1,6 +1,4 @@
-# 不用提建议了，停更了喵
-## 为什么
-开发者个人原因，不建议多问
+> [!Warning] 此仓库作为 NamePicker x Class Widgets 插件的 Class-Widgets-Community 维护版本，任何问题请勿找原作者
 
 <div align="center">
 <img src="icon.png" alt="插件图标" width="18%">

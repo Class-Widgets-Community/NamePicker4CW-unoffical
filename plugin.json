@@ -1,13 +1,13 @@
 {
-    "name": "NamePicker x Class Widgets",
-    "description": "使NamePicker的点名结果在Class Widgets上显示",
-    "version": "1.0.0",
+    "name": "NamePicker x Class Widgets Unoffical",
+    "description": "使NamePicker的点名结果在Class Widgets上显示，社区分支。",
+    "version": "1.0.1",
     "plugin_ver": 1,
-    "author": "LHGS-github",
+    "author": "Class-Widgets-Community",
     "settings": false,
 
-    "url": "https://github.com/NamePickerOrg/NamePicker4CW",
+    "url": "https://github.com/Class-Widgets-Community/NamePicker4CW-unoffical",
     "branch": "main",
 
-    "update_date": "2025/3/15"
+    "update_date": "2025/8/24"
 }
